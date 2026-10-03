@@ -1,0 +1,10 @@
+{
+  "pages": ["pages/index/index", "pages/city/city"],
+  "window": {
+    "navigationBarTitleText": "潮汐据点",
+    "navigationBarBackgroundColor": "#10161a",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#10161a"
+  },
+  "sitemapLocation": "sitemap.json"
+}

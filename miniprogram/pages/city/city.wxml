@@ -1,0 +1,5 @@
+<view class="card" wx:for="{{buildings}}" wx:key="id">
+  <view>{{item.name}} · {{item.level}} 级</view>
+  <view class="muted">{{item.blurb}}</view>
+  <view wx:if="{{item.produces}}">库存 {{item.stored}}</view>
+</view>
