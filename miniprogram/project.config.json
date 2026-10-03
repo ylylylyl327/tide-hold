@@ -1,0 +1,9 @@
+{
+  "description": "潮汐据点小程序骨架。完整手动战斗在仓库根目录 index.html。规则与浏览器共用 utils/rules.js（从 shared/rules.js 复制）。",
+  "packOptions": { "ignore": [] },
+  "setting": { "urlCheck": false, "es6": true, "minified": false },
+  "compileType": "miniprogram",
+  "appid": "touristappid",
+  "projectname": "tide-hold",
+  "miniprogramRoot": "./"
+}
