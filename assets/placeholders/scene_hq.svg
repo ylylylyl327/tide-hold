@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 8 224 236" shape-rendering="geometricPrecision">
+<ellipse cx="140" cy="228" rx="108" ry="16" fill="#04110e"/>
+<polygon points="40,168 140,198 240,168 240,188 140,218 40,188" fill="#1a3330"/>
+<polygon points="48,150 140,180 232,150 232,168 140,198 48,168" fill="#244842"/>
+<rect x="78" y="78" width="124" height="78" fill="#2a4038"/>
+<polygon points="70,82 140,40 210,82" fill="#1f6f62"/>
+<polygon points="140,40 210,82 210,90 140,50 70,90 70,82" fill="#3ecfb0"/>
+<rect x="128" y="18" width="24" height="28" fill="#d7efe4"/>
+<circle cx="140" cy="16" r="8" fill="#f2d56b"/>
+<rect x="118" y="108" width="44" height="48" fill="#10241f"/>
+<rect x="90" y="96" width="22" height="28" fill="#16302c"/>
+<rect x="168" y="96" width="22" height="28" fill="#16302c"/>
+<rect x="96" y="102" width="10" height="14" fill="#e7b15a"/>
+<rect x="174" y="102" width="10" height="14" fill="#e7b15a"/>
+<rect x="36" y="156" width="28" height="36" fill="#1c3832"/>
+<rect x="216" y="156" width="28" height="36" fill="#1c3832"/>
+</svg>

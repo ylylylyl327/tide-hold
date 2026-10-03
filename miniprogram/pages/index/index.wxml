@@ -1,0 +1,13 @@
+<view class="card">
+  <view>潮汐据点</view>
+  <view class="muted">完整节拍战斗、据点界面和 GM 面板在浏览器打开项目根目录的 index.html。本页使用同一套规则。</view>
+  <view style="white-space:pre-wrap">{{summary}}</view>
+  <button bindtap="onNew">新的潮汐</button>
+  <button bindtap="onTutorial">用规则快进拾潮</button>
+  <button bindtap="onCollect">收取盐畦</button>
+  <button bindtap="onHq">升级潮心台并快进</button>
+  <button bindtap="onStage" data-id="1-1">快进 1-1</button>
+  <button bindtap="onStage" data-id="1-2">快进 1-2</button>
+  <button bindtap="onStage" data-id="1-boss">快进首领</button>
+  <navigator url="/pages/city/city">查看建筑</navigator>
+</view>
